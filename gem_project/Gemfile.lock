@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    license (0.6.2)
+
+PLATFORMS
+  x86_64-linux
+
+DEPENDENCIES
+  license
+
+BUNDLED WITH
+   2.4.13

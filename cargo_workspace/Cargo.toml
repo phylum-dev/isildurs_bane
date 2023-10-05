@@ -1,0 +1,11 @@
+[package]
+name = "cargo_workspace"
+version = "0.1.0"
+edition = "2021"
+
+[workspace]
+members = ["workspace_member"]
+
+[dependencies]
+workspace_member = { path = "./workspace_member" }
+itoa = "1.0.9"

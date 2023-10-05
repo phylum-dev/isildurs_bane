@@ -1,0 +1,7 @@
+{
+  "name": "workspace_member",
+  "packageManager": "yarn@3.6.4",
+  "dependencies": {
+    "typescript": "^5.2.2"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "yarn_workspace",
+  "packageManager": "yarn@3.6.4",
+  "workspaces": [
+    "projects/*"
+  ],
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "workspace_member": "./projects/workspace_member"
+  }
+}

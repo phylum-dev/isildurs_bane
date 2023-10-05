@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "KFZ/Gpl1Zp0hrjR+H5iPt7joi+PhIVJ3VN7xAQmLsCJ07ZJkiPbjcGrMIgq5oRCaEuN4UlfaEiH36V6iLjG5/g==",
+  "success": true,
+  "projectFilePath": "/home/chris/programming/phylum/isildurs_bane/dotnet_workspace/dotnet_workspace.csproj",
+  "expectedPackageFiles": [
+    "/home/chris/.nuget/packages/serilog/3.0.1/serilog.3.0.1.nupkg.sha512",
+    "/home/chris/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.9/microsoft.aspnetcore.app.ref.7.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
